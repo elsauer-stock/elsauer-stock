@@ -70,8 +70,8 @@ Telegram-бот с AI-тренером, встроенным WebApp и подк�
 
 ## 📫 Контакты
 
-- Telegram: укажем твою ссылку
-- Email: укажем твою почту
+- Telegram: @el_sauer
+- Email: logunovdmitro@yandex.ru
 <!--
 **elsauer-stock/elsauer-stock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
